@@ -13,9 +13,9 @@ I am always working on a number of different projects. Sometimes, I just want to
 
 ### SUPPORT ⚡
 As software becomes more and more complex, we're seeing increasing subscription costs for advanced software. This has started causing less fortunate people to be unable to use important and beneifical tools as part of their development suite. Part of who I am and what my content represents is it will always be FREE and OPEN SOURCE, and choosing to support me is choosing to support that mantra. 
-- Become a GitHub sponsor: https://github.com/sponsors/spaderdabomb
-- Become a Youtube member: https://www.youtube.com/channel/UCRLa0eEG0rOR7APzAT1dPww/join
-- Become a Patreon member: https://www.patreon.com/spaderdabomb
+- [Become a GitHub sponsor](https://github.com/sponsors/spaderdabomb)
+- [Become a Youtube member](https://www.youtube.com/channel/UCRLa0eEG0rOR7APzAT1dPww/join)
+- [Become a Patreon member](https://www.patreon.com/spaderdabomb)
 
 <!--
 **spaderdabomb/spaderdabomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
