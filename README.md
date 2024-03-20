@@ -6,6 +6,11 @@ My main focus is bringing gamedev tutorials to Youtube. I have a number tutorial
 - [Beginner Series for Beautiful Open World in Unity](https://www.youtube.com/watch?v=nCDGjLRecrs)
 - [Shader Graph Tutorials](https://www.youtube.com/watch?v=Mgb4b_oZ7yk)
 
+### MY WORK
+I am always working on a number of different projects. Sometimes, I just want to make some stupid fun games, which I'll publish to my itch.io page. I also have serious projects ongoing, including Zen Fisher. Below, you can find ways to support or check out my content.
+- [My Itch.io page](https://spaderdabomb.itch.io/)
+- [Zen Fisher Steam Page](https://store.steampowered.com/app/2552170/Zen_Fisher/)
+
 ### SUPPORT ⚡
 As software becomes more and more complex, we're seeing increasing subscription costs for advanced software. This has started causing less fortunate people to be unable to use important and beneifical tools as part of their development suite. Part of who I am and what my content represents is it will always be FREE and OPEN SOURCE, and choosing to support me is choosing to support that mantra. 
 - Become a GitHub sponsor: https://github.com/sponsors/spaderdabomb
