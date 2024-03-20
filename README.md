@@ -3,8 +3,8 @@ I have been programming for 10+ years mostly in C# and Python. I am a gamedev ho
 
 ### YOUTUBE WORK
 My main focus is bringing gamedev tutorials to Youtube. I have a number tutorials focused on 3D development in Unity. Some of the more important efforts I have are:
-- [Beautiful Open World in Unity (Beginner Series)](https://www.youtube.com/watch?v=nCDGjLRecrs)
-- [Shader Graph Tutorials](https://www.youtube.com/watch?v=Mgb4b_oZ7yk)
+- [Beautiful Open World in Unity (Beginner Series)](https://www.youtube.com/playlist?list=PLYvjPIZvaz-pBS9j8u9Ol0ixAid0-Bq_t)
+- [Blender Tutorials](https://www.youtube.com/playlist?list=PLYvjPIZvaz-profQfHAhoFJbVGs6rIlvC)
 
 ### MY WORK
 I am always working on a number of different projects. Sometimes, I just want to make some stupid fun games, which I'll publish to my itch.io page. I also have serious projects ongoing, including Zen Fisher. Below, you can find ways to support or check out my content.
