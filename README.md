@@ -2,7 +2,7 @@
 I have been programming for 10+ years mostly in C# and Python. I am a gamedev hobbyist, mostly interested in making open world games in Unity.
 
 ### YOUTUBE WORK
-My main focus is bringing gamedev tutorials to Youtube. I have a number tutorials focused on 3D development in Unity. Some of the more important efforts I have are:
+My main focus is bringing gamedev tutorials to Youtube. I have a number tutorials focused on 3D development in Unity, all supported with open source code here on GitHub. Some of the more important efforts I have are:
 - [Beautiful Open World in Unity (Beginner Series)](https://www.youtube.com/playlist?list=PLYvjPIZvaz-pBS9j8u9Ol0ixAid0-Bq_t)
 - [Blender Tutorials](https://www.youtube.com/playlist?list=PLYvjPIZvaz-profQfHAhoFJbVGs6rIlvC)
 
