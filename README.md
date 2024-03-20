@@ -3,7 +3,7 @@ I have been programming for 10+ years mostly in C# and Python. I am a gamedev ho
 
 ### YOUTUBE WORK
 My main focus is bringing gamedev tutorials to Youtube. I have a number tutorials focused on 3D development in Unity. Some of the more important efforts I have are:
-- [Beginner Series for Beautiful Open World in Unity](https://www.youtube.com/watch?v=nCDGjLRecrs)
+- [Beautiful Open World in Unity (Beginner Series)](https://www.youtube.com/watch?v=nCDGjLRecrs)
 - [Shader Graph Tutorials](https://www.youtube.com/watch?v=Mgb4b_oZ7yk)
 
 ### MY WORK
