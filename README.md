@@ -2,6 +2,7 @@
 I have been programming for 10+ years mostly in C# and Python. I am a gamedev hobbyist, mostly interested in making open world games in Unity.
 
 ### SUPPORT ⚡
+As software becomes more and more complex, we're seeing increasing subscription costs for advanced software. This has started causing less fortunate people to be unable to use important and beneifical tools as part of their development suite. Part of who I am and what my content represents is it will always be FREE and OPEN SOURCE, and choosing to support me is choosing to support that mantra. 
 - Become a GitHub sponsor: https://github.com/sponsors/spaderdabomb
 - Become a Youtube member: https://www.youtube.com/channel/UCRLa0eEG0rOR7APzAT1dPww/join
 - Become a Patreon member: https://www.patreon.com/spaderdabomb
