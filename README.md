@@ -1,6 +1,11 @@
 ### Hi there 👋
 I have been programming for 10+ years mostly in C# and Python. I am a gamedev hobbyist, mostly interested in making open world games in Unity.
 
+### YOUTUBE WORK
+My main focus is bringing gamedev tutorials to Youtube. I have a number tutorials focused on 3D development in Unity. Some of the more important efforts I have are:
+- [Beginner Series for Beautiful Open World in Unity](https://www.youtube.com/watch?v=nCDGjLRecrs)
+- [Shader Graph Tutorials](https://www.youtube.com/watch?v=Mgb4b_oZ7yk)
+
 ### SUPPORT ⚡
 As software becomes more and more complex, we're seeing increasing subscription costs for advanced software. This has started causing less fortunate people to be unable to use important and beneifical tools as part of their development suite. Part of who I am and what my content represents is it will always be FREE and OPEN SOURCE, and choosing to support me is choosing to support that mantra. 
 - Become a GitHub sponsor: https://github.com/sponsors/spaderdabomb
