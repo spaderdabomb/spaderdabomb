@@ -6,7 +6,7 @@ My main focus is bringing gamedev tutorials to Youtube. I have a number tutorial
 - [Beautiful Open World in Unity (Beginner Series)](https://www.youtube.com/playlist?list=PLYvjPIZvaz-pBS9j8u9Ol0ixAid0-Bq_t)
 - [Blender Tutorials](https://www.youtube.com/playlist?list=PLYvjPIZvaz-profQfHAhoFJbVGs6rIlvC)
 
-### MY WORK
+### GAMEDEV WORK
 I am always working on a number of different projects. Sometimes, I just want to make some stupid fun games, which I'll publish to my itch.io page. I also have serious projects ongoing, including Zen Fisher. Below, you can find ways to support or check out my content.
 - [My Itch.io page](https://spaderdabomb.itch.io/)
 - [Zen Fisher Steam Page](https://store.steampowered.com/app/2552170/Zen_Fisher/)
